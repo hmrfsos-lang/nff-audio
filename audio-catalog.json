@@ -1,1 +1,27 @@
 
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "home-blessed-by-spirits",
+      "title": "A Home Blessed by Spirits",
+      "category": "general",
+      "format": "mp3",
+      "url": "https://github.com/hmrfosos-lang/nff-audio/releases/download/bgm-v1.0.0/A%20Home%20Blessed%20by%20Spirits.mp3"
+    },
+    {
+      "id": "little-shop-of-heart",
+      "title": "A Little Shop of Heart",
+      "category": "general",
+      "format": "mp3",
+      "url": "https://github.com/hmrfosos-lang/nff-audio/releases/download/bgm-v1.0.0/A%20Little%20Shop%20of%20Heart.mp3"
+    },
+    {
+      "id": "love-among-the-spirits",
+      "title": "Love Among the Spirits",
+      "category": "general",
+      "format": "mp3",
+      "url": "https://github.com/hmrfosos-lang/nff-audio/releases/download/bgm-v1.0.0/Love%20Among%20the%20Spirits.mp3"
+    }
+  ]
+}
